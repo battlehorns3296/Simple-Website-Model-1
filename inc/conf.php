@@ -15,4 +15,4 @@ define('WB_DESC', "A simple website Model to develope into your project page");
 // Website Tags. Separated by commas, example: "news, familly, people running, snowing mountains, photos"
 define('WB_TAGS', "simple, webpage, website, php simple, php, html, simple example page");
 // Copyright to be used mostly on footer page.
-define('WB_COPY', "Copyright 2024 - ". date("Y") ." | Made with love by ". WB_AUTHOR);
+define('WB_COPY', "Copyright 2024 - " . date("Y") . " | Made with love by " . WB_AUTHOR);

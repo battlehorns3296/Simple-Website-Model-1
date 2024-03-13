@@ -1,6 +1,6 @@
 <footer class="fixed-bottom">
 
-<?php echo WB_COPY; ?>
+  <?php echo WB_COPY; ?>
 
 </footer>
 
