@@ -28,7 +28,7 @@ if (isset($_GET["p"]) and $_GET["p"] == 'contact-us') {
   </div>
   <!-- -->
 <?php
-  // This next part the else part, just execute if none of the above IFs or ELSEIFs are false
+  // This next part the else part, just execute if the above IFs or ELSEIFs are false
 } else {
   /************************************ */
   /*              HOME PAGE             */
